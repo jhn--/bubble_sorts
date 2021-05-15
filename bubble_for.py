@@ -1,5 +1,5 @@
 def bubble(L, swap=None):
-    """Helper function for bubble sort
+    """Bubble sort
 
     Parameters:
     L (list): Unsorted (eventually sorted) list.
